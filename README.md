@@ -90,3 +90,122 @@ Preferência: Lidar com dados e pessoas
 Interesses técnicos: Inteligência Artificial e UX Design
 
 ➡️ A partir daqui, o Agent 2 assume e prepara o plano de estudos personalizado.
+
+
+Agente 2 – Planejador de Carreiras.
+
+🧠 MAPA DE SKILLS
+
+CORE SKILLS (essenciais):
+
+Design de interfaces e experiência do usuário.
+
+Fundamentos de inteligência artificial aplicada a produtos.
+
+Pesquisa e análise de comportamento de usuários.
+
+NICE-TO-HAVE (complementares):
+
+Noções de programação front-end.
+
+Visualização de dados.
+
+FERRAMENTAS E TECNOLOGIAS:
+
+Figma / Adobe XD.
+
+ChatGPT / Copilot / APIs de IA.
+
+Google Analytics / Hotjar.
+
+
+
+
+📅 ROADMAP DE 90 DIAS
+
+Adaptado para: 3 horas/semana
+
+MÊS 1 – FUNDAMENTOS
+
+Semana 1-2: Revisar princípios de UX e design centrado no usuário.
+
+Semana 3-4: Introdução à IA aplicada em interfaces (chatbots, recomendações).
+
+MÊS 2 – PRÁTICA
+
+Semana 5-6: Criar protótipos de interfaces com recursos de IA simulados.
+
+Semana 7-8: Testar usabilidade com colegas e coletar feedback.
+
+MÊS 3 – PORTFÓLIO E PREPARAÇÃO
+
+Semana 9-10: Desenvolver projeto de portfólio completo.
+
+Semana 11-12: Documentar processo e preparar apresentação para entrevistas.
+
+
+
+🚀 PROJETO DE PORTFÓLIO
+
+Projeto: “Assistente Virtual com Interface Amigável”
+
+O que fazer:  
+Criar um protótipo de aplicativo que usa IA para responder dúvidas de usuários, com foco em experiência intuitiva.
+
+Entregáveis:
+
+Protótipo navegável no Figma.
+
+Documentação de fluxo de interação.
+
+Relatório de testes de usabilidade.
+
+Critérios de aceitação:
+
+Interface clara e acessível.
+
+IA integrada de forma funcional.
+
+Feedback positivo em testes de usabilidade.
+
+Dica: Use ferramentas de prototipagem rápida e simule respostas de IA com textos pré-definidos.
+
+
+💬 ROTEIRO DE ENTREVISTAS
+
+Pergunta 1: “Como você aplica princípios de UX em projetos com IA?”
+Resposta: Explique como garante que a tecnologia não atrapalhe a experiência do usuário, mas sim a complemente.
+
+Pergunta 2: “Qual foi seu maior desafio em UX?”
+Resposta: Cite um exemplo prático e como resolveu com pesquisa e prototipagem.
+
+Pergunta 3: “Como você coleta e analisa feedback de usuários?”
+Resposta: Mostre métodos como entrevistas, testes de usabilidade e métricas digitais.
+
+Pergunta 4: “Você já trabalhou com dados em UX?”
+Resposta: Explique como dados ajudam a validar hipóteses de design.
+
+Pergunta 5: “Por que escolheu UX com foco em IA?”
+Resposta: Relacione seu interesse em IA com sua experiência em design centrado no usuário.
+
+
+🎓 TRILHA DIO RECOMENDADA
+
+Trilha: UX Designer com foco em IA (ou Bootcamp de UX/UI + IA
+
+Por que essa trilha:  
+Ela conecta fundamentos de UX com aplicações práticas de inteligência artificial, alinhando diretamente com sua carreira escolhida.
+
+Próximos passos:
+
+Acesse dio.me.
+
+Busque por “UX Designer” ou “UX/UI com IA”.
+
+Inscreva-se gratuitamente.
+
+Siga o cronograma junto com este roadmap.
+
+
+✨ Seu plano está pronto!
+Lembre-se: o mais importante é a constância, não a velocidade. Com 3 horas semanais, avance passo a passo e foque em consolidar fundamentos e portfólio.
